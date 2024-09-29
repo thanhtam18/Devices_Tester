@@ -1,3 +1,3 @@
 # MachTestHangDaNang
 
-![Uploading z5879358678327_79064e1f555ab0c534959fda5c13afab.jpg…]()
+<img src=https://github.com/thanhtam18/Devices_Tester/img/1.png" align="center" height="320" width="320">
